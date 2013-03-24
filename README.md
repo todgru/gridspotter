@@ -1,0 +1,4 @@
+gridspotter
+===========
+
+Grid spotting
